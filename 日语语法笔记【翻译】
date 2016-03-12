@@ -1,0 +1,409 @@
+#日语语法笔记
+##Keith Smillie
+
+###内容清单
+- 语序
+- 名词
+- 代词
+- 指示词和疑问词
+- 助词
+- 动词
+	- 介绍
+	- 尊敬形的现在时和过去时
+	- 表达『是』、『在』等存在意义
+	- 『desho』的用法
+	- 基本形的现在时和过去时
+	- 动名词 / 『-te』的形式
+	- 进行时
+	- 『意欲』形式
+	- 『被动』形式
+	- 『使役』形式
+	- 『条件（从句）』形式
+	- 给予和得到
+	- 开始一个动作
+	- 名词化
+- 形容词
+- 描述性名词
+- 副词
+- 比较
+- 数字
+- 特定时间
+- 相对时间
+- 量词
+- 日历
+- 家庭
+- 感谢
+- 引用
+- 附件-一些动词
+
+
+##语序
+
+英语是一种`主语-动词-宾语`结构的语言，对比之下，日语则是一种`主语-宾语-动词`的语言。
+
+	Torako wa neko desu.
+	Torako is a cat.(Literally, “Torako as for cat is.”)
+	Torako 是一只猫。（字面意，『Torako 猫 是』）
+
+	Torako ga nezumi o mimashita.
+	Torako saw a mouse.(Literally, “Torako[subject] mouse[object] saw”)
+	Torako 看到了一只老鼠。（字面意，『Torako「主语」老鼠「宾语」看到了』）
+
+构成疑问句的方法是：在问题后面加上`ka`。
+	Torako ga nezumi o mimashita ka.
+	Did Torako see a mouse?
+	Torako 看到了老鼠吗？
+
+###名词
+日文名词并没有复数形式，他们可能不会被冠词或不定冠词修饰，因为他们不存在。单数和复数形式通常是一样的。在`romaji` `罗马拼音`中人名、地名及语言名的首字母大写，『英语（eigo）』除外。
+	hon
+	book, books, a book, the book, the books
+	书（译者：好像中文也是一样的:)）
+
+指代人的名词，可能会使用`-tachi`后缀来表示复数。
+	kodomo            kodomotachi
+	child, children   children
+	孩子               孩子们
+
+	Tnaka san tachi
+	Mr. Tanaka and his family or others
+	Tnaka 先生和他的家人或其他人
+
+日文中名在姓之后。
+	Tanaka Hiromi
+	Hiromi Tanaka
+	Tanaka（姓） Hiromi（名）
+
+后缀`-ya`表示某人买某物的场所或卖某物的人。后缀`-ka`表示某人是特指事务上的专家。
+	hana        hanaya
+	flower      flower shop, florist
+	花           花店，卖花人
+
+	niku        nikuya
+  meat        butcher shop, butcher
+	肉           肉铺，屠户
+
+	shisetsu    shisetsuka
+	novel       novelist
+	小说          小说家
+
+当指代店员或店长时，使用表示尊重的`san`。
+	honya san
+	bookstore clerk, bookseller
+	书店职员先生
+
+两个名词组成符合名词时使用`no`连接。
+	nihongo no kurasu
+	Jaoanese language class
+	日语课程
+
+	apato no biru
+	aprtment building
+	公寓建筑
+
+##代词
+- watashi：我
+- anata：你
+- kare：他
+- kanojo：她
+- ano hito：那个人
+- watashitachi：我们
+- anatatachi：你
+- karera：他们
+- kanojotachi：他们
+- ano hitotachi： 那些人
+
+尽量避免使用`anata`，用`人名+san`来代替。类似的，当指代第三者时，使用那个人的名字。
+	Sumisu san wa eigo o mimashita ka.
+	Did you(Mr. Smith) see the movie?
+	你看那部电影了吗？（问 Smith 先生）
+
+	Tanaka san wa nani o kaimashita ka.
+	What did she(Mrs. Tanaka) buy?
+	她买什么了？（问某人关于 Tanaka 女士的事情）
+
+不定冠词有这些：
+- dareka：某人，someone
+- daremo：没有人，no one
+- doreka：某事，something
+- doremo：没有事，nothing
+- dokaka：某地，somewhere
+- dokomo：无处，nowhere
+- nanika：某事，something
+- nanimo：没事，nothing
+- ikuraka：一些，一点，some，a little
+- ikuramo：没多少，not much
+- nandemo：任何事，anything
+- nannimo：没事，nothing
+
+不定冠词的否定形式要和否定动词一起使用。
+	Dareka kimashita.
+	Someone came.
+	某人来过。
+
+	Daremo kimasen deshita.
+	No one came.
+	没人来过。
+
+反身代词为`jibun`（我自己、你自己等等）。
+	Jibun de hatarakimasu.
+	I am working by myself.
+	我自己工作生活。（译者的话：not sure:)）
+
+日语中没有关系代词，关系从句在它修饰的语词之前。
+	Asoko ni suwatte iru wakai josei wa musume desu.
+	That young lady sitting over there is my daughter.
+	那个坐在那里的年轻女士是我的女儿。
+
+##指示词和疑问词
+
+指示词和疑问词可能是代词、形容词或者副词，可以根据前缀将它们分为以下四类：
+- ko-：离说话者近的事物
+- so-：离听者比较近的事物（相较说话者）
+- a-：离说者和听者都有一定距离的事物
+- do-：表示疑问
+
+例子：
+- kore：这一个
+- sore：那一个
+- dore：哪一个
+- kono：这个
+- sono：那个
+- dono：哪个
+- konna：这一种
+- sonna：那一种
+- donna：哪一种
+- ko：这种方式
+- so：那种方式
+- a：那种方式
+- do：哪种方式
+- koko：这里
+- soko：那里
+- asoko：那——里
+- doko：哪里
+- kochira：这边
+- sochira：那边
+- achira：那——边
+- dochira：哪边
+
+##助词
+
+**wa**：主题、话题
+	Yoko san wa daigakuin no gakusei desu.
+	Yoko is a graduate student.(Literally, “As for Yoko, she is a graduate student.”)
+	Yoko 是一个本科毕业生。
+
+**ga**：主语
+	Watashiwa sushi ga suki desu.
+	I like sushi.(Literally, “As for me, sushi is likeable”)
+	我喜欢寿司。（字面意：对于我来说，寿司是喜欢的。）
+
+**o**：直接宾语
+	Torako wa kasasagi o mite imasu.
+	Torako is looking at the magpie.
+	Torako 在看着那个喜鹊。
+
+**no**：从属关系，名词修饰，同位语
+	Simon wa musume no neko desu.
+	Simon is my daughter’s cat.
+	Simon 是我女儿的猫。
+
+	Nihon no tabemono wa oishii dusu.
+	Japanese food is delicious.
+	日料很美味。
+
+	Tomodachi no Tanaka san wa sensei desu.
+	My friend Mr. Tanaka is a teacher.
+	我朋友 Tanaka 先生是一位教师。
+
+**ni**：宾语，地点，方向，特定时间
+	Watashi wa Tanaka san ni hon o kasimashita.
+	I loaned Mr. Tanaka a book.
+	我借给了 Tanaka 先生一本书。
+
+	Hiromi san wa Tokyo ni imasu.
+	Hiromi is in Tokyo.
+	Hiromi 在东京。
+
+	Kino watashi wa hayaku uchi ni kaerimashita.
+	Yesterday I went home early.
+	昨天我回家很早。
+
+	gogo juji 在10点（译者的话：这里是不是有个错误）
+	ninichiyobi ni 在星期天
+	shichigatsu ni 在七月
+	1998 nen ni 在1998年
+
+**de**：动作发生地点，交通工具，总数，材料
+	Watashi wa honya de hon o sansatsu kaimashita.
+	I bought three books at the bookstore.
+	我在书店买了三本书。
+
+	Tanaka san wa basu de kaisha ni ikimasu.
+	Mr. Tanaka goes to the office by bus.
+	Tanaka 先生坐公交车去上班。
+
+	Ashita eiga ni futari de ikimasu.
+	Tomorrow the two of us are going to a movie.
+	明天我们俩要一起去看电影。
+
+	Teburu wa ki de dekite imasu.
+	The table is made of wood.
+	桌子是木头做的。
+
+**e**：方向，去（某地）
+
+	Nihon e ikimasu ka.
+	Are you going to Japan?
+	你要去日本吗？
+
+**kara**： 来源，开始时间
+	Ano hito wa Nihon kara kimashita.
+	He is from Japan.
+	他来自日本。
+
+	Depato wa juji kara desu.
+	The department store opens at 10:00 o’clock.
+	商店10点开门。
+
+**made**： 结束时间、截止时间
+	Depato wa rokuji made desu.
+	The department store closes at 6:00 o’clock.
+	商店6点关门。（商店开到六点。）
+
+	Depato wa juji kara rokuji made desu.
+	The department store is open from 10:00 o’clock until 6:00 o’clock.
+	商店从上午十点开到下午六点。
+
+**mo**：也，和
+	Watashi wa ocha ga suki desu. Kohii mo suki desu.
+	I like tea. I also like coffee.
+	我喜欢喝茶。我也喜欢喝咖啡。
+
+	Ocha mo kohii mo nomimasu.
+	I drink both tea and coffee.
+	我茶和咖啡都喝。（译者的话：只有这样翻译才正常吧。可见日语之源。）
+
+	Ocha mo kohii mo nomimasen.
+	I drink neither tea nor coffee.
+	我茶和咖啡都不喝。
+
+**to**：完整列举中的和、与，包括
+	Sono gakusei wa pen to enpitsu o motte imasu.
+	That student has a pen and a pencil.
+	那个学生有一支钢笔和一支铅笔。
+
+	Watashi wa yoku tomodachi to hirugohan o tabemasu.
+	I often have lunch with my friends.
+	我常和朋友们一起吃午饭。
+
+**ya**：部分列举中的和、与
+	Watashitachi wa Kyoto ya Osaka (nado) e ikimashita.
+	We went to Kyoto, Osaka, etc.
+	我们去了 Kyoto 和 Osaka 等地方。
+
+**ga**：但是
+	Tanaka san wa kimasu ga, Watanabe san wa kimasen.
+	Mr. Tanaka is coming, but Mr. Watanabe isn’t.
+	Tanaka 先生要过来，但是 Watanabe 先生不来。
+
+**ka**：或者
+	Ocha ka kohii ikaga desu ka.
+	How about tea or coffee?
+	喝茶或者咖啡怎么样？
+
+**kara**：原因
+	Isogashii kara, eiga ni ikimasen deshita.
+	Because I was busy, I didn’t go to the movie.
+	因为我很忙，所以没去看电影。
+
+**nagara**：同时进行的动作
+	Aruki nagara, mondai ni tsuite kangaemashita.
+	While walking, I thought about the problem.
+
+**ka**：疑问句构成词
+	Gakusei desu ka.
+	Are you a student?
+	你是学生吗？
+
+**ne**：用于确认
+	Gakusei desu ne.
+	You are a student, aren’t you?
+	你是学生对吧？
+
+**yo**：强调
+	Gakusei desu yo.
+	So you’re a student!
+	你就是学生。
+
+
+##动词
+###介绍
+
+日语动词没有针对对象、数量、性别的不同形式。动词用所谓的『辞书形』或者『基本形』记录。除了两个特殊的动词，其他所有动词都可被分入两类或者两种『动词变形』，他们之间的区别是构成词干和不定式的方法不同。词根可能会改变或者加上一个前缀来表示时态、心情和礼貌。
+
+**第一类动词**是其『辞书形』不由`-eru`或者`-iru`结尾的动词，也包含少量含有这些结尾的词。词干通过去掉结尾的`-u`形成；不定式通过添加`-i`后缀给词干构成。第一类动词也被称为`辅音动词`、`c 词干动词`、`u 词干动词`或者`去 u 动词`。
+
+| 辞书形 | 词干 | 不定式 | 意义 |
+| :- | :- | :- | :- |
+| kaku | kak- | kaki- | 写 |
+| iku | ik- | iki- | 去 |
+| yomu | yom- | yomi- | 读 |
+| matsu | mat- | machi- | 等 |
+| hanasu | hanas- | hanashi- | 说 |
+| omou | omo- | omoi- | 相信 |
+
+以`-au`、`-iu`和`-ou`结尾的动词也被认为是`c 词干动词`，因为他们各自过去是以`-awa`、`-iwa`和`-owa`结尾。
+
+**第二类动词**，比第一类少得多，是大多数『辞书形』以`-eru`或者`-iru`结尾的动词。词干通过去掉结尾的`-ru`形成；不定式和词干一样。第二类动词也被称为`元音动词`、`v 词干动词`或者`去 ru 动词`。
+
+| 辞书形 | 词干 | 不定式 | 意义 |
+| :- | :- | :- | :- |
+| hajimeru | hajime- | hajime- | 开始 |
+| miru | mi- | mi- | 看 |
+| taberu | tabe- | tabe- | 吃 |
+
+那两个特别的动词，有时被称为**第三类动词**，是`kuru`和`suru`。
+
+| 辞书形 | 词干 | 不定式 | 意义 |
+| :- | :- | :- | :- |
+| kuru | ki- | ki- | 要发生、来（译者的话：此处可能有错误。） |
+| suru | shi- | shi- | 做 |
+
+>译者的话：刚刚百度之后发现，动词的辞书形大概就是动词原形的意思。
+
+###尊敬形的现在时和过去时
+
+要构造一个尊敬形的现在时，在不定式后面添加`-masu`表示肯定意义或者添加`-masen`表示否定意义。对于尊敬形的过去时，在不定式后面添加`-mashita`表示肯定意义或者添加`-masen deshita`表示否定意义。
+
+	Tokidoki eiga o mimasu.
+	I sometimes watch movies.
+	我有时候看电影。
+
+	Takabashi san wa sakana o tabemasen.
+	Ms. Takahashi doesn’t eat fish.
+	Takahashi 女士不吃鱼。
+
+	Mainichi kanji no benkyo o shimashita ga, sugu wasuremashita.
+	I studied kanji every day, but I soon forgot them.
+	我每天都学汉字，但是很快就忘了。
+
+	Ichi-jikan machimashita ga, tomodachi wa kimasen deshita.
+	I waited an hour, but my friend didn’t come.
+	我等了一个小时，但是我的朋友没有来。
+
+###表达『是』、『在』等存在意义
+
+
+
+
+
+
+
+
+
+
+
+
+
+
