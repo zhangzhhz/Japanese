@@ -477,11 +477,406 @@
 
 `kuru`和`suru`各自的基本形过去式是`kita`和`shita`。
 
+构造基本形过去时否定形式，添加`-nakatta`到`v 词干动词`的词干，添加`-anakatta`到`c 词干动词`的词干。
+	taberu tabenakatta 没有吃 didn’t eat
+	yomu yomanakatta 没有读 didn’t read
+
+只要句尾的动词是尊敬形，句中任何动词都可以用基本形而不影响到整体语调。这意味着基本形可以在句子由`kedo`连接或者以`desho`结束时使用。
+	Taiiku no sensei wa ii hito da kedo, chotto hen desu ne.
+	The physical education teacher is nice, but he’s a bit strange, isn’t he?
+	这个物理老师挺不错的，但是有一点奇怪，不是吗？
+
+	Takahashi san wa eigo ga wakaru desho ka.
+	I wonder if Ms. Takahashi understands English？
+	不知道 Takahashi 女士懂不懂英语呢？
+
+	Ani wa ikanai kedo, watashi wa ikimasu.
+	My older brother is not coming, but I am.
+	我哥哥不来了，我来。
+
+	Kyo wa kinyobi da to omotta kedo, chigaimasu ne.
+	I thought it was Friday, but it isn’t, is it!
+	我以为是星期五，但是不是，是吧！
+
+要声明原因，在动词基本形后添加`kara`或者使用`-i`形容词。
+	Shinkansen de itta kara, jikan ga amari kakarimasen deshita.
+	We went by Shinkansen, so it didn’t take very long.
+	我们路过了 Shinkanasen，所以应该不用花多少长时间。
+	
+	Shitsumon ga mada oi kara, mo ichido setsumei shimasho.
+	There are still a lot of questions, so let me explain again.
+	还有很多疑问，所以让我再解释一遍。
+
+要表达一个观点，在句尾使用短语`to omoimasu`并且所有动词使用基本形。要表达别人的想法，使用`omotte imasu`。动词`kangaeru`也是`想`的意思，不过只是暗示了`会考虑`,而`omou`暗示着有某种观点或感受。
+	Takahashi san wa kimasen. Takahashi san wa konai to omoimasu.
+	Ms. Takahashi is not coming. I don’t think Ms. Takahashi is coming.
+	Takahashi 女士没有来。我想她不回来了。
+
+	Maiku san wa, Nihon wa ii kuni da to motte imasu.
+	Mike thinks that Japan is a great country.
+	Mike 认为日本是个很棒的国家。
+
+	Chiimu no koto o kangaete imashita.
+	I was thinking about the team.
+	我在考虑队伍的事情。
+
+名词`tsumori`的意思是`意图`，所以由`tsumori desu`给基本形动词结尾的句子往往可以翻译成`打算做`或`要做`。
+	Sore wa mondai desu ne. Do suru tsumori desu ka.
+	That’s a problem, isn’t it? What do you intend to do?
+	这是个问题啊。你打算怎么做？
+
+	Donna kuruma o kau tsumori desu ka.
+	What kind of car do you intend to buy?
+	你准备买哪种车？
+
+要表达有能力做某事，就在动词基本形后面添加`koto ga dekimasu`。后面是`koto ga arimasu ka`的基本形过去时相当于`你曾……吗`。
+	Maiku san wa kanji o kaku koto ga dekimasu ka. (Maiku san wa kanji o kakemasu ka.)
+	Mike, can you write kanji characters?
+	Mike 你会写汉字吗？
+
+	Nihongo o hanasu koto ga dekimasu ka. (Nihongo ga hanasemasu ka.)
+	Can you speak Japanese?
+	你会说日语吗？
+
+	Sashimi o tabeta koto ga arimasu ka.
+	Have you ever eaten raw fish?
+	你吃过生鱼吗？
+
+一个以`no desu`或者`n’desu`结尾的基本形句子暗示着说话人正在解释某事、寻求解释或者表示强调。
+	Iroirona mondai ga arimasu ne. Do suru n’desu ka.
+	There are all sorts of problems, aren’t there? What are you going to do?
+	有好多问题啊。你打算怎么办？
+
+	Nani o shite iru n’desu ka.
+	What are you doing?
+	你在干嘛？
+
+	Totemo takai n’desu yo. Dakara kawanai n’desu.
+	It’s really expensice! That’s why i’m not buying it.
+	这太贵了。所以我不打算买。
+
+要引用某人的话，在引用后面加`to iimasu`（或者任何恰当的时态和词形）。要说某人说过但不是引用时，使用`to iimasu`，不过要把那个人说的换成基本形。通常在转述问题的时候会省略`da`。动词`iimasu`可以用于询问什么事物用某种语言怎么说，如用英语怎么说或用日语怎么说。
+	Maiku san wa, “Hayaku hashiru koto ga dekimasen,” to iimashita.
+	Mike said, “i can’t run fast”.
+	Mike 说，『我跑不快』。
+
+	Maiku san wa, “Ashita yakyu o shimasu,” to iimashita.
+	Mike said, “I’m playing baseball tomorrow.”
+	Mike 说『我明天要打棒球』。
+
+	Maiku san wa, ashita yakyu o suru to iimashita.
+	Mike said he’s playing baseball tomorrow.
+	Mike 说他明天要打棒球。
+
+	Watashi wa Amerikajin ka to kikimashita.
+	He asked if I was American.
+	他问我是不是美国人。
+
+	“Auttum” wa Nihongo de ♂ to iimasu ka. “Aki” to iimasu.
+	How do you say “autumn” in Japanese? It’s “aki”.
+	日语『autumn』怎么说？ “Aki”。
+
+###动名词 / 『-te』的形式
+不包含时态和情绪的动词`-te`形式	要和其他动词形式组合。它可能由改变基本形过去时的结尾的`-ta`为`-te`来形成。
+
+当`-te`形用来连接两个句子并且可能翻译成`与、和`的时候，句尾的动词决定句子整体时态。
+	Doyobi no asa ni Tokyo e ikimahita. Atarashii sutsu o kaimashita.
+	On Saturday morning I went to Tokyo. I bought a new suit.
+	星期六早上我去了东京，买了一套西服。
+
+	Doyobi no asa ni Tokyo eitte, atarashii sutsu o kaimashita.
+	On Saturday morning I went to Tokyo, and bought a new suit.
+
+要请求准许做某事，在`-te`形后面加`mo ii desu ka`。要问做某事有没有问题，先将表否定意义的`-nai`改成`-nakute`，然后加上`mo ii desu ka`。
+	Sumimasen ga, koko ni suwatte mo ii desu ka. Ii desu. Dozo.
+	Excume me, but is it alright if I sit here? Yes, please go ahead.
+	不好意思，我能坐这里吗？ 没问题，请坐。
+
+	Kore o zenbu tabenakute mo ii dusu ka. Hai, (tabenakute mo)ii desu yo.
+	Is it alright if I don;t eat all of this? Yes, it’s alright (if you don’t eat it).
+	我可以不全部吃完吗？ 没问题，可以（不吃完）的。
+
+要表驳回请求，使用后接`wa ikemasen`的`-te`形动词。
+	Sono heya ni haitte wa ikemasen.
+	You musn’t go into that room.
+	你不能进那间房。
+
+###进行时
+
+要描述一个正在发生或者还没发生的事件，要在`-te`形后面使用`iru`或`imasu`的正确形式。
+	Tomoko san wa ima nani o shite imasu ka.
+	What is Tomoko doing at the moment?
+	Tomoko 现在在干什么？
+
+	Sono kaisha de mo hataraite imasen. Ima ginko de hataraite imasu.
+	I don’t work at that company any more. Now I am working at a bank.
+	我没在那个公司工作了，现在我在一家银行工作。
+
+	Ima eigo o benkyo shite imasen.
+	I am not studying English now.
+	我现在没有在学英语。
+
+过去进行时是通过后接肯定形过去时或否定形过去时的`te`形构成的。
+	Torako ga isu no ue de nete imashita.
+	Torako was sleeping on the chair.
+	Torako 在椅子上睡觉。
+
+	Kino no ban watashi wa terebi o mite imasen deshita.
+	I wasn’t watching telebision last night.
 
 
+###『意欲』形式
+
+要表达某人做某事的意愿，在后接`desu`的不定式后面添加`-tai`。以`-tai`结尾的动词和`-i`形容词类似，因此否定形式以`-taku arimasen`结尾；过去时以`-takatta desu`结尾。要表达渴望某事物的欲望，使用`-i`形容词`hoshii`。
+	Ocha ga nomitai.
+	I would like some tea.
+	我喝茶吧。
+
+	Kino yasumi o toritakatta kedo, taihen isogashikute, toru koto ga dekimasen deshita.
+	I wanted to take yesterday off, but I couldn’t because I was extremely busy.
+	昨天我想请假的，但是昨天太忙了所以没能请。
 
 
+	Kanojo wa, boifurendo ga hoshii to iimashita.
+	She said she wants a boyfriend.
 
+###『被动』形式
+
+要构成被动，要在`v 词干动词`后面添加`-rareru`或者`-raremasu`，在`c 词干动词`后添加`-areru`或者`-aremasu`。对于否定形式，’v 词干动词’添加`-rarenai`或者`-raremasen`，`c 词干动词`添加`-arenai`或者`-aremasen`。
+	Torako wa nezumi o tabemashita.
+	Torako ate the mouse
+	Torako 吃了那只老鼠。
+	
+	Nezumi wa Torako ni taberaremashita.
+	The mouse was eaten by Torako.
+	那只老鼠被 Torako 吃了。
+	
+	Nezumi wa Torako ni taberaremasen deshita.
+	The mouse was not eaten by Torako.
+	那只老鼠没有被 Torako 吃掉。
+	
+	Torako wa nezumi to asobimashita.
+	Torako played with the mouse.
+	Torako 玩弄了那只老鼠。
+
+	Nezumi wa Torako ni asobaremashita.
+	The mouse was played with by Torako.
+	那只老鼠被 Torako 玩弄了。
+
+###『使役』形式
+
+给`v 词干动词`添加`-saseru`或者`-sasemasu`（否定形式加`-sasenai`或者`-sasemasen`）；给`c 词干动词`添加`-aseru`或者`-asemasu`（否定形式加`-asenai`或者`-asemasen`）。
+	Torako o daidokoro no teberu kara orisasemashita.
+	I made Torako get off the kitchen table.
+	我把 Torako 赶下了餐桌。
+
+
+###『条件（从句）』形式
+
+去掉动词基本形结尾的`-u`，加上`-eba`。要构成否定形式，去掉基本形否定形式的`-i`，加上`-kereba`。对于`-i`形容词，去掉结尾的`-i`，加上`-kereba`；否定形式则去掉`nai`的`-i`，加上`-kereba`。
+	Moshi dekireba, kotoshi gaikoku e ikitai n’desu.
+	If I can, I want to go abroad this year.
+	如果可以的话，今年我想出国。
+
+	Jisho o tsukawanakereba, kono Nihongo no shukudai ga dekimasen.
+	If I don’t use a dictionary, I can’t do this Japanese homework.
+	如果我不用字典的话，我做不了这个日文家庭作业。
+
+	Ashita tenki ga yokereba, dokoka e ikimasho ka.
+	If the weather’s nice tomorrow, shall we go somewhere?
+	如果明天天气好的话，我们去个什么地方吧？
+
+	Takaku nakereba, kaimasu.
+	If it’s not too expensice, I’ll buy it.
+
+`-nakereba narimasen`这种表达的字面意思是『如果你不……，就不好了』，或者说『你必须做……』，`naru`是动词`成为`。否定形式『不必要做』用`-nakute mo ii desu`来表达。
+	Jiko shokai wa Nihongo de nakereba narimasen.
+	Your self-introduction must be in Japanese.
+	你的自我介绍还是用日语好。
+
+	Kyo owaranakute mo ii desu.
+	You don’t have to finish it today.
+	你不用今天就完成。
+
+
+###给予和得到
+
+以下是一些用于表达『给予』和『得到』的一些动词，它们的使用取决于『给予者』和『得到者』的相对状态以及动作发生的方向：
+	ageru 给 Give
+	sashiageru 给长辈、上级 Give to superiors
+	yaru 给（非正式） Give(informal)
+	kureru 给说话人 Give to speaker
+	kudasaru 长辈、上级给说话人 Give to speaker from superior
+	morau 收到 Receive
+	itadaku 从长辈、上级收到 Receive from superiors
+
+	Watashi wa Hu-san ni hon o agemashita.
+	I gave Hugh a book.
+	我给了 胡歌 一本书。
+
+	Watashi wa sensei ni hon o sashiagemashita.
+	I gave the teacher a book.
+	我给了老师一本书。
+
+	Watashi wa Torako ni omocha o yarimashita.
+	I gave Torako the toy.
+	我给了 Torako 一个玩具。
+
+	Hu-san wa watashi ni hon o kuremashita.
+	Hugh gave me the book.
+	胡歌 给了我一本书。
+
+	Sensei wa watashi ni hon o kudasaimashita.
+	The teacher gave me a book.
+	老师给了我一本书。
+
+	Watashi wa Hu-san ni hon o moraimashita.
+	I received the book from Hugh.
+	我收到 胡歌 给我的一本书。
+
+	Watashi wa sensei ni hon o itadakimashita.
+	I received a book from the teacher.
+	我收到老师给的一本书。
+
+###开始一个动作
+
+要表达开始一个动作，使用表达动作的动词的词干后接动词`hajimeru`正确形式。
+	Senshu hon o yomihajimemashita.
+	I started reading the book last week.
+	我上周开始读一本书。
+
+###名词化
+
+动词可以转化成名词，或者用英语语法的表达的话是动名词，通过基本形后接`no`或者`koto`，虽然`no`不能用作谓语。（译者的话：此处存疑。）
+	Watashi wa yomu no ga suki desu.
+	I like reading.
+	我喜欢读书。
+
+	Miru koto wa shinjiru koto desu.
+	Seeing is believing.
+	眼见为实。
+
+##形容词
+日语形容词要么是口头形容词要么是形容词性名词。第一类形容词的辞书形全部以`-ai`、`-ii`、`-oi`或者`-ui`结尾，因此有时候称之为`-i`形容词。第二类都有着类似名词的特征，当他们修饰名词时都有后缀`-na`,因此有时候也称为`-na`形容词。
+
+`-i`形容词可以修饰一个紧接着的名词。
+	Watashi wa chiisai neko o katte imasu.
+	I have a small cat.
+	我有一只小猫。
+
+`-i`形容词的词干通过去掉结尾的`-i`形成，例如`chisaii`的词干是`chisai-`。一个`-i`形容词可以通过搭配表示不同时态：
+	现在时：[词干]+-i
+	过去时：[词干]+-katta
+	否定形式：[词干]+-kunai
+	过去时的否定形式:[词干]+-kunakatta
+	动名词：[词干]+-kute
+
+关联的动词使用现在时。
+	Kono hon wa omoshiroi desu.
+	This book is interesting.
+	这本书很有趣。
+
+	Ano hon mo omoshirokatta desu.
+	That book was interesting too.
+	那本书也很有趣。
+	
+	Kyo wa samukunai desu.
+	Today it’s not cold.
+	今天不冷。
+
+	Kino mo samukunakatta desu.
+	Yesterday it wasn’t cold either.
+	昨天也不冷。
+
+	Kono hon wa omoshirokute tanoshii desu.
+	This book is interesting and enjoyable.
+	这本书有趣有味道。
+
+`-na`形容词可以用作谓语或者定语。
+	Ano hito wa yumei dusu.
+	He is famous.
+	他很有名。
+
+	Koen wa shizuka dewa arimasen deshita.
+	The park wasn’t quiet.
+	公园里不安静。
+
+	Shizukana heya ga hoshii desu.
+	I want a quiet room.
+	我想要一个安静的房间。
+
+下列颜色的单词可以被单独用作形容词：
+	akai 红色
+	aoi 蓝色、绿色
+	chairoi 棕色
+	kiiroi 黄色
+	kuroi 黑色
+	shiroi 白色
+
+当这些单词作为名词的时候，结尾的`i`去掉：
+	Kuruma wa akai desu.
+	The car is red.
+	车是红色的。
+
+	Aka wa ii iro desu.
+	Red is a nice colour.
+	红色是个好颜色。
+
+下列颜色单词都是名词并且必须后接`no`：
+	chairo no 棕色
+	giniro no 银色
+	haiiro no 灰色
+	kiiro no 黄色
+	kiniro no 金色
+	midoriiro no 绿色
+	murasaki no 紫色
+	nezumiiro no 灰色
+	orenji no 橙色
+
+##描述性名词
+
+名词有多种修饰方法。然而并没有用于构建关系从句的关系代词，关系从句结束于被修饰词之后的动词的基本形。
+	Haruko wa me ga kirei desu.
+	Haruko has beautiful eyes.
+	Haruko 有一堆:)大眼睛。
+
+	Haruko wa goshujin ga isha desu.
+	Haruko’s husband is a medical doctor.
+	Haruko 的丈夫是个医生。
+
+	Haruko wa onaka ga sukimashita.
+	Haruko was hungry.
+	Haruko 饿了。
+	
+	Haruko wa eigo ga dekimasu.
+	Haruko knows English.(Haruko is good at English.)
+	Haruko 通晓英文。
+
+	Watashi wa me ga kireina Haruko o mimasu.
+	I am looking at Haruko with the beautiful eyes.
+	我在看着 Haruko 漂亮的眼睛。
+
+	Ano hito wa goshujin ga isha no Haruko desu.
+	That person over there is Haruko whose husband is a medical doctor.
+	那边那个人是 Haruko， 她的丈夫是个医生。
+
+	Ano hito wa onaka ga suita Haruko desu.
+	That person over there is Haruko who is hungry.
+	那边那个饿了的人是 Haruko。
+
+	Ano hito wa eigo ga dekiru no Haruko desu.
+	That person over there is Haruko who can speak English.
+	那边那个能说英语的人是 Haruko。
+##副词
+##比较
+##数字
+##特定时间
+##相对时间
+##量词
+##日历
+##家庭
+##感谢
+##引用
 
 
 
