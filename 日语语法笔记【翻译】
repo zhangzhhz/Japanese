@@ -358,7 +358,7 @@
 **第二类动词**，比第一类少得多，是大多数『辞书形』以`-eru`或者`-iru`结尾的动词。词干通过去掉结尾的`-ru`形成；不定式和词干一样。第二类动词也被称为`元音动词`、`v 词干动词`或者`去 ru 动词`。
 
 | 辞书形 | 词干 | 不定式 | 意义 |
-| :- | :- | :- | :- |
+| :--- | :--- | :--- | :--- |
 | hajimeru | hajime- | hajime- | 开始 |
 | miru | mi- | mi- | 看 |
 | taberu | tabe- | tabe- | 吃 |
@@ -366,7 +366,7 @@
 那两个特别的动词，有时被称为**第三类动词**，是`kuru`和`suru`。
 
 | 辞书形 | 词干 | 不定式 | 意义 |
-| :- | :- | :- | :- |
+| :--- | :--- | :--- | :--- |
 | kuru | ki- | ki- | 要发生、来（译者的话：此处可能有错误。） |
 | suru | shi- | shi- | 做 |
 
@@ -1074,7 +1074,7 @@
 
 
 | 数量 | 常规 | 人 | 邮票 | 铅笔 | 书 | 猫 | 楼层 |
-| :- | :- | :- | :- | :- | :- | :- | :- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | hitotsu | hitori | ichimai | ippon | issatsu | ippiki | ikai |
 | 2 | futatsu | futari | nimai | nihon | nisatsu | nihici | nikai |
 | 3 | mittasu | sannin | sanmai | sanbon | sansatsu | sanbiki | sangai |
