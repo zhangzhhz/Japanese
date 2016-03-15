@@ -868,15 +868,320 @@
 	That person over there is Haruko who can speak English.
 	那边那个能说英语的人是 Haruko。
 ##副词
+
+要用`-i`形容词构成副词，给词干添上`-ku`。
+	yasui 便宜的 yasuku 便宜地(bian yi de)
+	hayai 快的 hayaku 快地
+	ii 好的 yoku 好地[不规则变化]
+
+	Kino no ban Torako wa yok nemashita.
+	Torako slept well last night.
+	Torako 昨晚睡得很好。
+
+要用`-na`形容词构成副词，给词干添上`ni`。
+	shizuka 安静的 shizuka ni 安静地
+	kantan 简单的 kantan ni 简单地
+
+	Torako wa shizuka ni arukimasu.
+	Torako walks quietly.
+	Torako 轻轻地走。
+
+当然，也有很多不是来源于动词的副词。
+	kino 昨天 yesterday
+	kyo 今天 today
+	ashita 明天 tommorow
+	mainichi 每天 every day
+	maiasa 每个早晨 every morning
+	ima 现在 now
+	yagate 很快 soon
+	sugu 立刻 immediately
+	mada 目前为止 yet, still
+
+	amari 没多少 not much
+	bakkari 仅仅 only
+	chotto 一点点 a little
+	ikaga 怎么样 how
+	itsumo 总是 always
+	mata 重复 again
+	mo 更多 more
+	motto 更多 more
+	nakanaka 完全 completely
+
+	sukoshi 一点点 a little
+	tabun 可能 perhaps
+	taihen 很 very
+	takusan 非常 a lot
+	tokidoki 有时 sometimes
+	totemo 很 very
+	yukkuri 缓慢 slowly
+	zenzen 完全 at all（用于否定形式的动词）
+	
+
 ##比较
+
+	Kanada wa Nihon yori okii desu.
+	Canada is larger than Japan.
+
+	Nihon yo ri Kanada wa okii desu.
+	Canada is larger than Japan.
+
+	Nihon yori Kanada no ho ga okii desu.
+	Canada is larger than Japan.
+	加拿大比日本大。
+
+	Nihon wa Kanada hodo okikunai desu.
+	Japan is not as large as Canada.
+	日本没有像加拿大那么大。
+
+	Kanada to Nihon to dewa dochira ga okii desu ka.
+	Which is larger, Canada or Japan?
+	加拿大和日本哪个大一些？
+
+	Torako wa neko no naka de ichiban kawaii desu.
+	Taroka is the most beautiful of all cats.
+	Torako 是最漂亮的猫。
+
+	Torako wa Edomonton de ichiban kawaii desu.
+	Torako is the most beautiful (cat) in Edmonton.
+	Torako 是 Edmonton 最漂亮的。
+
+	Nezumi to inu to dewa dochira ga kawaii desu ka.
+	Which are the more attractive, mice or dogs?
+	老鼠和狗哪个更讨人喜欢？
+
+	Mae no rei wa baka deshita ne.
+	The last example was silly, wasn’t it?
+	最后一个例子真蠢，不是吗？
+
+	
 ##数字
+
+	0 rei zero
+	1 ichi
+	2 ni
+	3 san
+	4 shi/yon
+	5 go
+	6 roku
+	7 shichi/nana
+	8 hachi
+	9 ku/kyu
+	10 ju
+	20 niju
+	30 sanju
+	40 yonju
+	50 goju
+	60 rokuju
+	70 nanaju
+	80 hachiju
+	90 kyuju
+	100 hayku
+	200 nihyaku
+	300 sanbyaku
+	400 yonhyaku
+	500 gohyaku
+	600 roppyaku
+	700 nanahayku
+	800 happyaku
+	900 kyuhyaku
+	1000 sen
+	2000 nisen
+	3000 sanzen
+	4000 yonsen
+	5000 gosen
+	6000 rokusen
+	7000 nanasen
+	8000 hassen
+	9000 kyusen
+	10,000 man/ichiman
+	100,000 juman
+	1,000,000 hyakuman
+	10,000,000 senman/issenman
+	100,000,000 oku/ichioku
+	1,000,000,000 juoku
+
+序数是通过给数字添加`banme`。
+	ichibanme 第一 first
+	nibanme 第二 second
+
+
 ##特定时间
+
+	1点 ichiji
+	2点 niji
+	3点 sanji
+	4点 yoji
+	5点 goji
+	6点 rokuji
+	7点 shichiji
+	8点 hachiji
+	9点 kuji
+	10点 juji
+	11点 juichiji
+	12点 juniji
+	
+	1分钟 ippun
+	2分钟 nifun
+	3分钟 sanpun
+	4分钟 yonpun
+	5分钟 gofun
+	6分钟 roppun
+	7分钟 nanafun
+	8分钟 happun
+	9分钟 kyufun
+	10分钟 juppun
+
+	han 半 half    Goji han desu. 现在 5：30。
+	sugi 之后 after    Juji jugofun sugi desu. 现在 10：15。
+	mae 之前 before    Juji jugofun mae desu. 现在是十点差一刻。
+
+	gozen 上午（译者的话：这是早晨吧！） a.m. Gozen hachiji desu. 现在是上午8 点。
+	gogo 下午 p.m. Gogo juji desu. 现在时下午 10 点
+	
 ##相对时间
+
+	ototo 前天 day before yesterday
+	kino 昨天 yesterday
+	kyo 今天 today
+	ashita 明天 tomorrow
+	asatte 后天 day after tomorrow
+	
+	asa 早上 morning
+	hiru 中午 noon
+	gogo 下午 afternoon
+	yugata 晚上（译者的话：晚上好棒。） evening
+	
+	ototoshi 前年 year before last
+	kyonen 去年（译者的话：kyo不应该是今吗？） last year
+	kotoshi 今年 this year
+	rainen 明年（译者的话：来年） next year
+	sarainen 后年（译者的话：再来一年） year after next
+	
+	sensenshu 上上周（译者的话：前前周） week before last
+	senshu 上周 last week
+	konshu 这周 this week
+	raishu 下周 next week
+	saraishu 下下周 week after next
+
+	sensengetsu 上上个月 month before last
+	sengetsu 上个月 last month
+	kongetsu 这个月 this month
+	raigetsu 下个月 next month
+	sariagetsu 下下个月 month after next
+
+
 ##量词
+
+
+| 数量 | 常规 | 人 | 邮票 | 铅笔 | 书 | 猫 | 楼层 |
+| :- | :- | :- | :- | :- | :- | :- | :- |
+| 1 | hitotsu | hitori | ichimai | ippon | issatsu | ippiki | ikai |
+| 2 | futatsu | futari | nimai | nihon | nisatsu | nihici | nikai |
+| 3 | mittasu | sannin | sanmai | sanbon | sansatsu | sanbiki | sangai |
+| 4 | yottsu | yonnin | yomai | yonhon | yonsatsu | yonhiki | yonkai |
+| 5 | itsutsu | gonin | gomai | gohon | gosatsu | gohiki | gokai |
+| 6 | muttsu | rokunin | rokumai | roppon | rokusatsu | roppiki | rokai |
+| 7 | nanatsu | nananin | nanamai | nanahon | nanasatsu | nanahiki | nanakai |
+| 8 | yatsu | hachinin | hachimai | happon | hassatsu | happiki | hakkai |
+| 9 | kokonotsu | kyunin | kyumai | kyuhon | kyusatsu | kyuhiki | kyukai |
+| 10 | to | junin | jumai | juppon | jusatsu | jupiki | jukkai |
+| ? | ikutsu | nannin | nanmai | nanbon | nansatsu | nanbiki | nankai |
+	
 ##日历
+
+	1号 tsuitachi
+	2号 futsuka
+	3号 mikka
+	4号 yokka
+	5号 itsuka
+	6号 muika
+	7号 nanoka
+	8号 yoka
+	9号 kokonoka
+	10号 toka
+	11号 juichinichi
+	12号 juninichi
+	13号 jusannichi
+	14号 juyokka
+	15号 jugonichi
+	16号 jurokunichi
+	17号 jushichinichi
+	18号 juhachinichi
+	19号 jukunichi
+	20号 hatsuka
+	21号 nijuichinichi
+	22号 nijuninichi
+	23号 nijusannichi
+	24号 nijuyokka
+	25号 nijugonichi
+	26号 nijurokunichi
+	27号 nijushichinichi
+	28号 nijuhachinichi
+	29号 nijukunichi
+	30号 sanjunichi
+	31号 sanjuichinichi
+
+	星期一 getsuyobi
+	星期二 kayobi
+	星期三 suiyobi
+	星期四 mokuyobi
+	星期五 kinyobi
+	星期六 doyobi
+	星期天 nichiyobi
+	
+	一月 ichigatsu
+	二月 nigatsu
+	三月 sangatsu
+	四月 shigatsu
+	五月 gogatsu
+	六月 rokugatsu
+	七月 shichigatsu
+	八月 hachigatsu
+	九月 kugatsu
+	十月 jugatsu
+	十一月 juichigatsu
+	十二月 junigatsu
+
+	春天 haru
+	夏天 natsu
+	秋天 aki
+	冬天 fuyu
+	
 ##家庭
-##感谢
-##引用
+
+日语中用不同的词来称呼自己的家人和别人的家人：
+	关系 自家、别人家
+	奶奶 sobo obasan
+	爷爷 sofu ojisan
+	妈妈 haha okasan
+	爸爸 chichi otosan
+	夫人 kanai okusan
+	丈夫 shujin goshujin
+	女儿 musume musumesan
+	儿子 musuko musukosan
+	姐姐 ane onesan
+	妹妹 imoto imotosan
+	哥哥 ani oniisan
+	弟弟 ototo ototosan
+	阿姨 oba obasan
+	叔叔 oji ojisan
+	侄女 mei meigosan
+	外甥 oi oigosan
+	堂兄妹 itoko itoko
+	孩子 kodomo kodomosan
+	孙子 mago omagosan
+	家庭 kazoku gokazoku
+	兄弟姐妹 kyodai gokyodai
+
+形容词`giri no`表示是婚后关系：
+	giri no musuko 女婿
+
+
+##附录 一些动词
+
+排列顺序分别是`辞书形`，`-masu`形和`-te`形。
+	ageru agemasu agete give,raise
+	
 
 
 
